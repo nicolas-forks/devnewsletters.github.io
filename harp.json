@@ -1,0 +1,25 @@
+{
+  "globals": {
+    "title": "DevNewsletters",
+    "slug_title": "devnewsletters",
+    "description": "A collection of newsletters for developers subscribe",
+    "author": "Caio Ribeiro Pereira",
+    "email": "caio.ribeiro.pereira@gmail.com",
+    "github_url": "https://github.com/devnewsletters/devnewsletters.github.io",
+    "root_url": {
+      "development": "http://localhost:3000/",
+      "production": "https://devnewsletters.github.io/"
+    },
+    "devfreecasts": {
+      "title": "DevFreeCasts",
+      "about": "A huge collection of free screencasts for developers",
+      "url": "https://devfreecasts.github.io?utm_source=devnewsletters&utm_medium=medium&utm_campaign=DevNewsletters"
+    },
+    "devfreebooks": {
+      "title": "DevFreeBooks",
+      "about": "A huge collection of free books for developers",
+      "url": "https://devfreebooks.github.io?utm_source=devnewsletters&utm_medium=medium&utm_campaign=DevNewsletters"
+    },
+    "utm": "utm_source=devnewsletters&utm_medium=medium&utm_campaign=DevNewsletter"
+  }
+}

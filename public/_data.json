@@ -1,0 +1,95 @@
+{
+  "newsletters": [
+    {
+      "id": "css-weekly",
+      "title": "CSS Weekly",
+      "url": "http://css-weekly.com",
+      "image": "css-weekly.jpg",
+      "about": "Weekly e-mail roundup of css articles, tutorials, experiments and tools."
+    },
+    {
+      "id": "ruby-weekly",
+      "title": "Ruby Weekly",
+      "url": "http://rubyweekly.com/",
+      "image": "ruby-weekly.jpg",
+      "about": "A free, once–weekly e-mail round-up of Ruby news and articles."
+    },
+    {
+      "id": "mobile-web-weekly",
+      "title": "Mobile Web Weekly",
+      "url": "http://mobilewebweekly.co",
+      "image": "mobile-web-weekly.jpg",
+      "about": "A weekly round-up of links that affect Web dev working on the mobile-facing Web."
+    },
+    {
+      "id": "react-status",
+      "title": "React Status",
+      "url": "http://react.statuscode.com",
+      "image": "react-status.jpg",
+      "about": "A weekly roundup of the latest React and React Native links and tutorials."
+    },
+    {
+      "id": "cloud-development-weekly",
+      "title": "Cloud Development Weekly",
+      "url": "http://clouddevweekly.co",
+      "image": "cloud-development-weekly.jpg",
+      "about": "News, links and resources about cloud services, APIs, and cloud-based tools."
+    },
+    {
+      "id": "node-weekly",
+      "title": "Node Weekly",
+      "url": "http://nodeweekly.com",
+      "image": "node-weekly.jpg",
+      "about": "A free, once–weekly e-mail round-up of Node.js news and articles."
+    },
+    {
+      "id": "javascript-weekly",
+      "title": "JavaScript Weekly",
+      "url": "http://javascriptweekly.com",
+      "image": "javascript-weekly.jpg",
+      "about": "A free, once–weekly e-mail round-up of JavaScript news and articles."
+    },
+    {
+      "id": "frontend-focus",
+      "title": "Frontend Focus",
+      "url": "http://frontendfocus.co",
+      "image": "frontend-focus.jpg",
+      "about": "A once–weekly roundup of the best frontend links. HTML, CSS, WebGL, Canvas, and more."
+    },
+    {
+      "id": "golang-weekly",
+      "title": "Go Newsletter",
+      "url": "http://golangweekly.com",
+      "image": "golang-weekly.jpg",
+      "about": "A weekly newsletter about the Go programming language."
+    },
+    {
+      "id": "db-weekly",
+      "title": "DB Weekly",
+      "url": "http://dbweekly.com",
+      "image": "db-weekly.jpg",
+      "about": "A weekly round-up of database technology news and articles covering, SQL, NoSQL and more."
+    },
+    {
+      "id": "postgres-weekly",
+      "title": "Postgres Weekly",
+      "url": "http://postgresweekly.com",
+      "image": "postgres-weekly.jpg",
+      "about": "A free, once–weekly e-mail round-up of PostgreSQL news and articles."
+    },
+    {
+      "id": "webops-weekly",
+      "title": "Web Operations Weekly",
+      "url": "http://webopsweekly.com",
+      "image": "webops-weekly.jpg",
+      "about": "A weekly newsletter on Webops, infrastructure, performance, and tooling."
+    },
+    {
+      "id": "bitcoin-weekly",
+      "title": "Bitcoin Weekly",
+      "url": "http://bitcoinweekly.com",
+      "image": "bitcoin-weekly.jpg",
+      "about": "A weekly round-up of Bitcoin and cryptocurrency news and articles."
+    }
+  ]
+}

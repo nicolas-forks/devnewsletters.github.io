@@ -1,0 +1,17 @@
+- var newsletters = public._data.newsletters
+section.row-fluid.clearfix
+  p.center.hidden-xs.hidden-sm
+    a.btn.btn-lg.btn-warning(href="#{github_url}/blob/master/README.md#how-to-add-a-newsletter" target="_blank" title="Just click and follow these rules to submit a newsletter.") <i class="icon-plus"></i>&nbsp;Submit newsletter
+  p.center
+    strong #{newsletters.length}</strong> newsletters to subscribe!
+section.row-fluid.clearfix
+  .row-fluid
+    each newsletter in newsletters
+      .col-xs-12.col-sm-4.col-md-3
+        .thumbnail(id="#{newsletter.id}")
+          a(href="#{newsletter.url}?#{utm}" title="#{newsletter.about}" target="_blank")
+            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{newsletter.image}")
+          div.caption
+            p.newsletter-about #{newsletter.about}
+            p.center
+              a.btn.btn-block.btn-warning(href="#{newsletter.url}?#{utm}" target="_blank" title="#{newsletter.title}: #{newsletter.about}")<i class="icon-mail"></i>&nbsp;#{newsletter.title}
