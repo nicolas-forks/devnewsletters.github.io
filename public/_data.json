@@ -22,6 +22,55 @@
       "about": "Keep up to date with the very best and latest tutorials, tips, tricks and resources."
     },
     {
+      "id": "founder-weekly",
+      "title": "Founder Weekly",
+      "url": "http://www.founderweekly.com",
+      "image": "founder-weekly.jpg",
+      "about": "A newsletter for entrepreneurs featuring best curated content, articles, links and more."
+    },
+    {
+      "id": "python-weekly",
+      "title": "Python Weekly",
+      "url": "http://www.pythonweekly.com",
+      "image": "python-weekly.jpg",
+      "about": "A free weekly newsletter featuring curated news, links, jobs related to Python."
+    },
+    {
+      "id": "php-weekly-news",
+      "title": "PHP Weekly News",
+      "url": "http://www.phpweekly.com",
+      "image": "php-weekly-news.jpg",
+      "about": "A free once-a-week newsletter, featuring some great articles, news and blog posts about PHP."
+    },
+    {
+      "id": "caelum-newsletter",
+      "title": "Caelum Newsletter",
+      "url": "https://www.caelum.com.br/newsletter",
+      "image": "caelum-newsletter.jpg",
+      "about": "Articles, news, releases, community newsletter (Brazil)."
+    },
+    {
+      "id": "vim-weekly",
+      "title": "Vim Weekly",
+      "url": "http://www.vimweekly.com",
+      "image": "vim-weekly.jpg",
+      "about": "Five vim tips for your week."
+    },
+    {
+      "id": "android-weekly",
+      "title": "Android Weekly",
+      "url": "http://androidweekly.net",
+      "image": "android-weekly.jpg",
+      "about": "A free newsletter that helps you to stay cutting-edge with your Android development."
+    },
+    {
+      "id": "hacker-newsletter",
+      "title": "Hacker Newsletter",
+      "url": "http://www.hackernewsletter.com",
+      "image": "hacker-newsletter.jpg",
+      "about": "A newsletter of the best articles on startups, technology, programming from Hacker News site."
+    },
+    {
       "id": "web-tools-weekly",
       "title": "Web Tools Weekly",
       "url": "http://webtoolsweekly.com",
