@@ -1,6 +1,55 @@
 {
   "newsletters": [
     {
+      "id": "udgwebdev-weekly",
+      "title": "UDGWebDev Weekly",
+      "url": "http://weekly.udgwebdev.com",
+      "image": "udgwebdev-weekly.jpg",
+      "about": "Stay tuned for updates on JavaScript, Node.js and Meteor (Brazil)."
+    },
+    {
+      "id": "braziljs-weekly",
+      "title": "BrazilJS Weekly",
+      "url": "https://braziljs.org/#weekly",
+      "image": "braziljs-weekly.jpg",
+      "about": "A weekly about web technologies, including JavaScript, HTML5, CSS, Node.js and more (Brazil)."
+    },
+    {
+      "id": "sitepoint-newsletter",
+      "title": "Sitepoint Newsletter",
+      "url": "https://www.sitepoint.com/newsletter",
+      "image": "sitepoint-newsletter.jpg",
+      "about": "Keep up to date with the very best and latest tutorials, tips, tricks and resources."
+    },
+    {
+      "id": "web-tools-weekly",
+      "title": "Web Tools Weekly",
+      "url": "http://webtoolsweekly.com",
+      "image": "web-tools-weekly.jpg",
+      "about": "A front-end development and web design newsletter with a focus on tools."
+    },
+    {
+      "id": "frontend-dev-weekly",
+      "title": "Frontend Dev Weekly",
+      "url": "http://frontenddevweekly.com",
+      "image": "frontend-dev-weekly.jpg",
+      "about": "Front-end developer news, tools and inspiration hand-picked each week."
+    },
+    {
+      "id": "dicas-de-frontend",
+      "title": "Dicas de Frontend",
+      "url": "http://dicasdefrontend.com.br",
+      "image": "dicas-de-frontend.jpg",
+      "about": "A newsletter made for front-end developers and web designers (Brazil)."
+    },
+    {
+      "id": "nosql-weekly",
+      "title": "NoSQL Weekly",
+      "url": "http://www.nosqlweekly.com",
+      "image": "nosql-weekly.jpg",
+      "about": "A weekly newsletter featuring curated news, articles, releases, jobs related to NoSQL."
+    },
+    {
       "id": "css-weekly",
       "title": "CSS Weekly",
       "url": "http://css-weekly.com",
@@ -30,7 +79,7 @@
     },
     {
       "id": "cloud-development-weekly",
-      "title": "Cloud Development Weekly",
+      "title": "Cloud Dev Weekly",
       "url": "http://clouddevweekly.co",
       "image": "cloud-development-weekly.jpg",
       "about": "News, links and resources about cloud services, APIs, and cloud-based tools."
@@ -79,7 +128,7 @@
     },
     {
       "id": "webops-weekly",
-      "title": "Web Operations Weekly",
+      "title": "Web Ops Weekly",
       "url": "http://webopsweekly.com",
       "image": "webops-weekly.jpg",
       "about": "A weekly newsletter on Webops, infrastructure, performance, and tooling."

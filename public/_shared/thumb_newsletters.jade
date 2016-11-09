@@ -10,7 +10,7 @@ section.row-fluid.clearfix
       .col-xs-12.col-sm-4.col-md-3
         .thumbnail(id="#{newsletter.id}")
           a(href="#{newsletter.url}?#{utm}" title="#{newsletter.about}" target="_blank")
-            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{newsletter.image}")
+            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{newsletter.image}" style="border: 1px #DEDEDE solid")
           div.caption
             p.newsletter-about #{newsletter.about}
             p.center

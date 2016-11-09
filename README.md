@@ -24,7 +24,7 @@ With this project in your hands, edit the `/public/_data.json` and add your news
 }
 ```
 
-Obs.: **All image must be an jpeg/jpg with 350x220 size**.
+Obs.: **All image must be an jpeg/jpg with 672x414 size**.
 
 Look this example (`public/_data.json`):
 
