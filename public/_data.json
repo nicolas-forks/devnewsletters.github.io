@@ -188,6 +188,13 @@
       "url": "http://bitcoinweekly.com",
       "image": "bitcoin-weekly.jpg",
       "about": "A weekly round-up of Bitcoin and cryptocurrency news and articles."
+    },
+    {
+      "id": "toughtworks-radar",
+      "title": "ToughtWorks Radar",
+      "url": "https://www.thoughtworks.com/radar",
+      "image": "toughtworks-radar.jpg",
+      "about": "Thoughts on the technology and trends that are shaping the future."
     }
   ]
 }
