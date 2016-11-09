@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T12:32:12.608Z
+# rev 1 - 2016-11-09T12:54:25.050Z
 
 CACHE:
 404.html
@@ -14,8 +14,10 @@ assets/font/opensans.eot
 assets/font/opensans.svg
 assets/font/opensans.ttf
 assets/font/opensans.woff
+assets/images/android-weekly.jpg
 assets/images/bitcoin-weekly.jpg
 assets/images/braziljs-weekly.jpg
+assets/images/caelum-newsletter.jpg
 assets/images/cloud-development-weekly.jpg
 assets/images/css-weekly.jpg
 assets/images/db-weekly.jpg
@@ -23,18 +25,23 @@ assets/images/devnewsletters-128.png
 assets/images/devnewsletters-thumb.png
 assets/images/devnewsletters.png
 assets/images/dicas-de-frontend.jpg
+assets/images/founder-weekly.jpg
 assets/images/frontend-dev-weekly.jpg
 assets/images/frontend-focus.jpg
 assets/images/golang-weekly.jpg
+assets/images/hacker-newsletter.jpg
 assets/images/javascript-weekly.jpg
 assets/images/mobile-web-weekly.jpg
 assets/images/node-weekly.jpg
 assets/images/nosql-weekly.jpg
+assets/images/php-weekly-news.jpg
 assets/images/postgres-weekly.jpg
+assets/images/python-weekly.jpg
 assets/images/react-status.jpg
 assets/images/ruby-weekly.jpg
 assets/images/sitepoint-newsletter.jpg
 assets/images/udgwebdev-weekly.jpg
+assets/images/vim-weekly.jpg
 assets/images/web-tools-weekly.jpg
 assets/images/webops-weekly.jpg
 assets/js/aightjs.gz.js
